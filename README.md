@@ -10,10 +10,10 @@
 [Gráfico de atividade do Github](https://github-readme-activity-graph.cyclic.app/graph?username=jessicaaranha&theme=gotham)
 
 
-<p align="centro">
+<p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=jessicaaranha&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
 </p>
-<div align="centro">  
+<div align="center">  
 <a href="https://www.instagram.com/jessicaaranha/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a >
 </Div> 
 

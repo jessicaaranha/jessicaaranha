@@ -7,17 +7,15 @@
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jessicaaranha&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
 </div>
 
-![Github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=jessicaaranha&theme=gotham)
+[Gráfico de atividade do Github](https://github-readme-activity-graph.cyclic.app/graph?username=jessicaaranha&theme=gotham)
 
 
-<p align="center">
+<p align="centro">
   <img src="https://github-profile-trophy.vercel.app/?username=jessicaaranha&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
 </p>
-
-<div align="center">  
-<a href="www.instagram.com/jessicaaranha/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
-</div>
-  
+<div align="centro">  
+<a href="https://www.instagram.com/jessicaaranha/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a >
+</Div> 
 
 ### Main skills:
   ![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&labelColor=0D1117)&nbsp;
